@@ -1,0 +1,38 @@
+# Just the Route
+
+> A growing archive of Philadelphia running routes and race-day videos.
+> Real routes. Real time. Know the turns before you run them.
+
+Just the Route is a route-first running video archive made by Bill Curtin, a runner, therapist, husband, and dad from Philadelphia. Runs unfold in real time with natural sound and minimal editing, plus a GPS route overlay. Every route page includes route notes, an interactive map, and a downloadable GPX file.
+
+## The archive (as of October 2026)
+- Spring Garden Bridge (0.55 mi) — Mantua Avenue / Powelton Village across the Spring Garden Bridge to the Philadelphia Museum of Art
+- Schuylkill River Loop, counterclockwise (~8.4 mi) — Art Museum, up Kelly Drive, across Falls Bridge, back down MLK Drive
+- Schuylkill River Loop, clockwise (~8.5 mi) — up MLK Drive, across Falls Bridge, back down Kelly Drive
+- Schuylkill Banks — river run along the Schuylkill Banks
+- MLK Drive — Falls Bridge to Spring Garden Bridge along the Schuylkill River
+- Forbidden Run Fest 21K — full 13.1-mile Wissahickon Valley Park course, unofficial course tour
+- Wissahickon Trail Nor'Easter — four rainy miles along Forbidden Drive
+- Philadelphia Distance Run 2026 — race-day footage, start to approximately mile 11
+
+Coming soon: full Philadelphia Marathon 2026 course preview (filmed October 2026).
+
+## Route pages
+- https://justtheroute.com/routes/spring-garden-bridge/
+- https://justtheroute.com/routes/schuylkill-river-loop/
+- https://justtheroute.com/routes/schuylkill-river-loop-clockwise/
+- https://justtheroute.com/routes/schuylkill-banks/
+- https://justtheroute.com/routes/mlk-drive/
+- https://justtheroute.com/routes/forbidden-run-fest-21k/
+- https://justtheroute.com/routes/wissahickon-noreaster/
+- https://justtheroute.com/routes/philadelphia-distance-run-2026/
+
+GPX downloads for every route: https://justtheroute.com/gpx/
+
+## Watch
+YouTube channel: @justtherouterunning — https://www.youtube.com/@justtherouterunning
+Spanish-language channel: correUSA — https://www.youtube.com/channel/UC9V1L6nwDY8Tn5wo6XLL-0Q
+
+## Participate
+- Suggest a route: via the site's suggestion form or a YouTube comment
+- Newsletter: occasional email when a new run drops, no spam
